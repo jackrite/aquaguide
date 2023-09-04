@@ -45,7 +45,7 @@ Easy to Use: With simple intuitive feedback, AquaGuide provides real-time audio 
 
 1. Install opencv and rpi.gpio on raspberry pi zero
 2. Clone the repo on rasp pi zero
-3. python blackband.py
+3. Inside rasp pi, in CLI, python blackband.py
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -53,7 +53,7 @@ Video shown for illustration on https://youtu.be/rnkZiPMfC8k
 
 
 ## Limitations and improvements
-Simple proof of concept, Required to be tested by swimmers for fine-tuning the alert
+Simple proof of concept, Required to be tested by swimmers to fine-tune the alert
 
 
 
